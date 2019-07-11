@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerWithImageDemo</string>
+    <string name="image_1">image_1</string>
+</resources>
